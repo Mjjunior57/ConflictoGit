@@ -1,2 +1,4 @@
 # ConflictoGit
+
 HOLA ORIGINAL
+
