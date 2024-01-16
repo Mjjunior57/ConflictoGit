@@ -1,4 +1,2 @@
 # ConflictoGit
-ConflictoGit
-HOLA RAMA1
-1
+HOLA ORIGINAL
